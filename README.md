@@ -2,7 +2,7 @@
 
 **智能眼镜上的端侧实时字幕翻译引擎** —— 说完到上屏 **p95 497 ms**,字幕只前进、不回退。
 
-[![CI](https://github.com/1304857605-create/sublens/actions/workflows/ci.yml/badge.svg)](https://github.com/1304857605-create/sublens/actions/workflows/ci.yml)
+[![CI](https://github.com/1304857605-create/sublens-realtime-translation/actions/workflows/ci.yml/badge.svg)](https://github.com/1304857605-create/sublens-realtime-translation/actions/workflows/ci.yml)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![C++20](https://img.shields.io/badge/C%2B%2B-20-00599C.svg)](#)
 [![Tests](https://img.shields.io/badge/tests-67%20passed-brightgreen.svg)](tests/)
